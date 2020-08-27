@@ -1,0 +1,10 @@
+{
+  "simulation": "eden.PerformanceTest",
+  "simulationId": "performancetest",
+  "start": 1598486632081,
+  "description": "",
+  "scenarios": ["Eden - Fluxo Principal"],
+  "assertions": [
+
+  ]
+}

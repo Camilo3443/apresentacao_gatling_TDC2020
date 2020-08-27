@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 90,
+        "ok": 90,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 166,
+        "ok": 166,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 3592,
+        "ok": 3592,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 495,
+        "ok": 495,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 597,
+        "ok": 597,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 338,
+        "ok": 338,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 363,
+        "ok": 363,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1597,
+        "ok": 1597,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 3449,
+        "ok": 3449,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 83,
+    "percentage": 92
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 7,
+    "percentage": 8
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 3.3333333333333335,
+        "ok": 3.3333333333333335,
+        "ko": 0
+    }
+},
+"contents": {
+"req_login--33de6": {
+        "type": "REQUEST",
+        "name": "Login!",
+"path": "Login!",
+"pathFormatted": "req_login--33de6",
+"stats": {
+    "name": "Login!",
+    "numberOfRequests": {
+        "total": 30,
+        "ok": 30,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 193,
+        "ok": 193,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 3431,
+        "ok": 3431,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 601,
+        "ok": 601,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 710,
+        "ok": 710,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 355,
+        "ok": 355,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 369,
+        "ok": 369,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 2113,
+        "ok": 2113,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 3134,
+        "ok": 3134,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 26,
+    "percentage": 87
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 4,
+    "percentage": 13
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.1111111111111112,
+        "ok": 1.1111111111111112,
+        "ko": 0
+    }
+}
+    },"req_buscar-produto--72986": {
+        "type": "REQUEST",
+        "name": "Buscar produto!",
+"path": "Buscar produto!",
+"pathFormatted": "req_buscar-produto--72986",
+"stats": {
+    "name": "Buscar produto!",
+    "numberOfRequests": {
+        "total": 30,
+        "ok": 30,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 167,
+        "ok": 167,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2662,
+        "ok": 2662,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 440,
+        "ok": 440,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 445,
+        "ok": 445,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 337,
+        "ok": 337,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 358,
+        "ok": 358,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 851,
+        "ok": 851,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 2247,
+        "ok": 2247,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 28,
+    "percentage": 93
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 2,
+    "percentage": 7
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.1111111111111112,
+        "ok": 1.1111111111111112,
+        "ko": 0
+    }
+}
+    },"req_finalizar-compr-42180": {
+        "type": "REQUEST",
+        "name": "Finalizar Compra!",
+"path": "Finalizar Compra!",
+"pathFormatted": "req_finalizar-compr-42180",
+"stats": {
+    "name": "Finalizar Compra!",
+    "numberOfRequests": {
+        "total": 30,
+        "ok": 30,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 166,
+        "ok": 166,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 3592,
+        "ok": 3592,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 443,
+        "ok": 443,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 592,
+        "ok": 592,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 331,
+        "ok": 331,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 346,
+        "ok": 346,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 609,
+        "ok": 609,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 2730,
+        "ok": 2730,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 29,
+    "percentage": 97
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 3
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.1111111111111112,
+        "ok": 1.1111111111111112,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

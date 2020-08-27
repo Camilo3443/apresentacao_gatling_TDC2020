@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 75,
+        "ok": 75,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 175,
+        "ok": 175,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1078,
+        "ok": 1078,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 388,
+        "ok": 388,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 124,
+        "ok": 124,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 385,
+        "ok": 385,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 417,
+        "ok": 417,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 515,
+        "ok": 515,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 860,
+        "ok": 860,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 74,
+    "percentage": 99
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 1,
+    "percentage": 1
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.8846153846153846,
+        "ok": 2.8846153846153846,
+        "ko": 0
+    }
+},
+"contents": {
+"req_login--33de6": {
+        "type": "REQUEST",
+        "name": "Login!",
+"path": "Login!",
+"pathFormatted": "req_login--33de6",
+"stats": {
+    "name": "Login!",
+    "numberOfRequests": {
+        "total": 25,
+        "ok": 25,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 190,
+        "ok": 190,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 784,
+        "ok": 784,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 420,
+        "ok": 420,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 126,
+        "ok": 126,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 434,
+        "ok": 434,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 460,
+        "ok": 460,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 636,
+        "ok": 636,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 754,
+        "ok": 754,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 25,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.9615384615384616,
+        "ok": 0.9615384615384616,
+        "ko": 0
+    }
+}
+    },"req_buscar-produto--72986": {
+        "type": "REQUEST",
+        "name": "Buscar produto!",
+"path": "Buscar produto!",
+"pathFormatted": "req_buscar-produto--72986",
+"stats": {
+    "name": "Buscar produto!",
+    "numberOfRequests": {
+        "total": 25,
+        "ok": 25,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 319,
+        "ok": 319,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 504,
+        "ok": 504,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 393,
+        "ok": 393,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 38,
+        "ok": 38,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 408,
+        "ok": 408,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 409,
+        "ok": 409,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 428,
+        "ok": 428,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 487,
+        "ok": 487,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 25,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.9615384615384616,
+        "ok": 0.9615384615384616,
+        "ko": 0
+    }
+}
+    },"req_finalizar-compr-42180": {
+        "type": "REQUEST",
+        "name": "Finalizar Compra!",
+"path": "Finalizar Compra!",
+"pathFormatted": "req_finalizar-compr-42180",
+"stats": {
+    "name": "Finalizar Compra!",
+    "numberOfRequests": {
+        "total": 25,
+        "ok": 25,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 175,
+        "ok": 175,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1078,
+        "ok": 1078,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 349,
+        "ok": 349,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 163,
+        "ok": 163,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 330,
+        "ok": 330,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 361,
+        "ok": 361,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 415,
+        "ok": 415,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 919,
+        "ok": 919,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 24,
+    "percentage": 96
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 1,
+    "percentage": 4
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.9615384615384616,
+        "ok": 0.9615384615384616,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

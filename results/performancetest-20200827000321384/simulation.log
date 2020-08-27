@@ -1,0 +1,4 @@
+RUN	eden.PerformanceTest	performancetest	1598486601384	testes	3.3.1
+USER	Eden - Fluxo Principal	1	START	1598486603812	1598486603812
+REQUEST	1		Do Checkout!	1598486603837	1598486604272	KO	status.find.is(200), but actually found 201
+USER	Eden - Fluxo Principal	1	END	1598486603812	1598486604294
