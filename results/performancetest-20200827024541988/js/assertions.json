@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.PerformanceTest",
+  "simulationId": "performancetest",
+  "start": 1598496341988,
+  "description": "testes",
+  "scenarios": ["fluxo principal"],
+  "assertions": [
+
+  ]
+}

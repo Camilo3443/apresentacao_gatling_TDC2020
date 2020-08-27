@@ -1,0 +1,5 @@
+RUN	eden.PerformanceTest	performancetest	1598487153441	testeste	3.3.1
+USER	Eden - Fluxo Principal	1	START	1598487154928	1598487154928
+REQUEST	1		Login!	1598487154950	1598487155418	OK	 
+REQUEST	1		Buscar produto!	1598487155440	1598487155926	KO	status.find.is(201), but actually found 404
+USER	Eden - Fluxo Principal	1	END	1598487154928	1598487155930
